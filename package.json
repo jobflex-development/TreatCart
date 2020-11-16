@@ -1,0 +1,23 @@
+{
+  "name": "treatcart",
+  "version": "0.1.0",
+  "description": "online treat cart extension for jobflex development team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khg0712/TreatCart.git"
+  },
+  "keywords": [
+    "chrome_extension",
+    "react"
+  ],
+  "author": "khg0712",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khg0712/TreatCart/issues"
+  },
+  "homepage": "https://github.com/khg0712/TreatCart#readme"
+}
