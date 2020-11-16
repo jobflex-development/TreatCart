@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khg0712/TreatCart.git"
+    "url": "git+https://github.com/jobflex-development/TreatCart.git"
   },
   "keywords": [
     "chrome_extension",
@@ -17,7 +17,7 @@
   "author": "khg0712",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khg0712/TreatCart/issues"
+    "url": "https://github.com/jobflex-development/TreatCart/issues"
   },
-  "homepage": "https://github.com/khg0712/TreatCart#readme"
+  "homepage": "https://github.com/jobflex-development/TreatCart#readme"
 }
